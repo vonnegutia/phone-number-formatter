@@ -5,9 +5,6 @@
 // A generic onclick callback function.
 
 
-  //console.log("item " + info.menuItemId + " was clicked");
-  //console.log("info: " + JSON.stringify(info));
-  //console.log("tab: " + JSON.stringify(tab));
   function OnClick(info) {
 
   //alert((/(\d)+/).test("%s"));
